@@ -4,7 +4,7 @@
 We use the ExplorePipolin results saved in a directory as input.
 This directory contains a subdirectory for each genome.
 
-This script is a more complete version of info_from_EP.
+This script is a more complete version of info_from_EP_v2.
 """
 
 import os
