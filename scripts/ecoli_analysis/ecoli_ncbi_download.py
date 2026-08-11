@@ -3,7 +3,7 @@
 """
 We use datasets only for Escherichia coli (taxon id: 562).
 We download the dehydrated genomes and rehydrate them in groups.
-VERY similar to HMMSearch_Final, but with other options for the datasets command
+VERY similar to HMMSearch_Final.py, but with other options for the datasets command
 """
 
 import subprocess
